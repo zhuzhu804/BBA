@@ -19,6 +19,8 @@
 
 An overview comparison between conventional SFDA methods (a) and our method (b). In conventional methods (a), the source domain model is directly fine-tuned to align the source and target domains. This direct adaptation approach can be problematic due to significant differences between the source and target domains, potentially leading to suboptimal performance. In contrast, our Bridge then Begin Anew (BBA) approach (b) introduces a bridge model to generate more reliable pseudo-labels and stimulates the exploration of target domain-specific knowledge.
 
+Supplementary materials can be found in [Bridge_then_Begin_Anew_Supplementary Material.pdf](./Bridge_then_Begin_Anew_Supplementary Material.pdf)
+
 ## Getting Started
 
 Comming Soon...
