@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="326e320b-e557-492c-b09f-53a53ffe9a80" name="a100">
+        <fileTransfer rootFolder="/home/cx_xchen/zhuzhu/apps/Emo-SFDA" accessType="SFTP" host="172.21.1.101" port="20006" sshConfigId="e768648a-332c-4828-b172-0f2c8da82069" sshConfig="cx_xchen@172.21.1.101:20006 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
